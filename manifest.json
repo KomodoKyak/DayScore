@@ -2,7 +2,7 @@
   "name": "Dayscore",
   "short_name": "Dayscore",
   "description": "A minimal daily habit tracker. Log tasks, track your score, stay accountable.",
-  "start_url": "/accountability_tracker.html",
+  "start_url": "/DayScore/",
   "display": "standalone",
   "background_color": "#0d0d0d",
   "theme_color": "#b8f763",
